@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
-load 'config/environment.rb'
+load 'lib/dominion-power-scraper.rb'
 Pry.start
