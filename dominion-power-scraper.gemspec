@@ -17,6 +17,7 @@ Gem::Specification.new do |s|
   s.add_dependency "pry"
   s.add_dependency "activesupport"
   s.add_dependency "capybara"
-  s.add_dependency 'selenium-webdriver'
+  s.add_dependency "selenium-webdriver"
+  s.add_dependency "rake"
 
 end
