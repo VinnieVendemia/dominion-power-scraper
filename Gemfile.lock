@@ -5,6 +5,7 @@ PATH
       activesupport
       capybara
       pry
+      rake
       selenium-webdriver
 
 GEM
@@ -42,6 +43,7 @@ GEM
     rack (1.6.4)
     rack-test (0.6.3)
       rack (>= 1.0)
+    rake (10.4.2)
     rubyzip (1.1.7)
     selenium-webdriver (2.48.1)
       childprocess (~> 0.5)
